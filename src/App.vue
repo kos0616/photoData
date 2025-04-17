@@ -2,7 +2,7 @@
 <template>
   <main class="min-h-svh flex flex-col items-center justify-center p-4">
     <div class="grid gap-4 max-w-3xl container">
-      <a href="/IMG_7936.jpeg" target="_blank">
+      <a href="https://kos0616.github.io/photoData/IMG_7936.jpeg" target="_blank">
         <img src="/IMG_7936.jpeg" class="max-w-[4rem]" />
         下載範例圖片
       </a>
